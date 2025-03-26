@@ -45,3 +45,5 @@ C:\Code\poc\chattest\obj\Debug\net9.0\chattest.pdb
 C:\Code\poc\chattest\obj\Debug\net9.0\chattest.genruntimeconfig.cache
 C:\Code\poc\chattest\obj\Debug\net9.0\ref\chattest.dll
 C:\Code\poc\chattest\obj\Debug\net9.0\compressed\6zr6l4t2nf-ze8chblhba.gz
+C:\Code\poc\chattest\obj\Debug\net9.0\chattest.sourcelink.json
+C:\Code\poc\chattest\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
